@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 👋 I'm @markmelzer
-- 🌱 I’m currently studying Bioinformatics M.Sc.
+- 🌱 I’m a PhD student @ BuchauerLab, Charité Berlin
+- ⚙️ Working with Compuational Cytometry
 - 📫 How to reach me: mark@fam-melzer.net
 
 <div id="badges">
