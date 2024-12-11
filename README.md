@@ -16,6 +16,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=markmelzer&show_icons=true&count_private=true&theme=transparent) 
+#![GitHub stats](https://github-readme-stats.vercel.app/api?username=markmelzer&show_icons=true&count_private=true&theme=transparent) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markmelzer&show_icons=true&count_private=true&theme=transparent)
+#![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markmelzer&show_icons=true&count_private=true&theme=transparent)
